@@ -10,7 +10,7 @@ Cards: 4 Iran strikes Bahrain, US radar claim disputed [CLAIM].
 Pant 128. 7 Verstappen wins Las Vegas GP, 75th win. 8 NATO council meets
 on Poland missiles. 9 Gaza: EU urges aid access, floods hit 106,000.
 10 Alcaraz wins first ATP Finals. 11 Ukraine hits three Russian oil
-sites. 12 Cikande factory fire, Indonesia — 3 dead. 13 South Sudan:
+sites. 12 Cikande factory fire, Indonesia — 24 killed. 13 South Sudan:
 SPLA-IO attack kills 24 civilians.
 
 Also on Monday (14–39): Putin "said to agree" NATO-style guarantees
@@ -19,15 +19,15 @@ Le Pen turns down Kyiv invite; Bolsonaro still in ICU day 3; WHO Ebola
 warning in Congo; M6.1 quake in northern Japan; Lisbon cost-of-living
 protests; ICJ rules Myanmar genocide of Rohingya; Nepal PM Balen Shah
 visits India; India–China border talks; US asks Nvidia about China chip
-sales; India beat Pakistan by 1 wicket, U19 Asia Cup final; Pakistan A
-beat India A by 48 runs; Mohammed Shami retires from Tests; India
-hockey 1–0 over New Zealand; Macron on Ukraine NATO entry; Trump meets
+sales; Iran: will use 'all tools' vs US naval blockade; Korea
+education minister quits in AI exam scandal; Mohammed Shami retires from Tests; Don
+Toliver concert evacuated after gas scare; Macron on Ukraine NATO entry; Trump meets
 Putin at APEC; Israel kills Hamas commander Samir Abu Younis; global
 temperatures set to pass 1.5°C; Russia lost 2,471 troops in a day
 (Ukraine claim); Saudi intercepts Houthi missiles, 2 tankers hit;
 Israeli drone strike kills 2 in Gaza; Australia calls for Bowen to quit
-after COP31; India's Yadav on COP31; Lakshya Sen loses Hong Kong Open
-semi; Gukesh prepares to face Uzbekistan in world chess.
+after COP31; India's Yadav on COP31; US Army plans Iowa lead blast
+despite court order; AI bubble fears: Nasdaq gives up all 2026 gains.
 
 Region counts: Europe 10, Middle East 5, Asia-Pacific 7, Americas 2,
 Africa 2, Oceania 1, Sport 9, World 3 = 39.

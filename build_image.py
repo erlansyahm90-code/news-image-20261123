@@ -231,8 +231,8 @@ CARDS = [
     },
     {
         "n": 12, "region": "ASIA-PACIFIC", "lon": 106.2, "lat": -6.1,
-        "tag": "INDONESIA", "head": "Cikande factory fire: 3 dead, dozens missing",
-        "body": ("Fire at a Cikande confectionery factory: 3 dead, dozens "
+        "tag": "INDONESIA", "head": "Cikande factory fire: 24 killed, dozens missing",
+        "body": ("Fire at a Cikande confectionery factory: 24 killed, dozens "
                  "unaccounted for."),
         "ill": "fire",
     },
@@ -258,10 +258,10 @@ ALSO = [
     (22, "ASIA-PACIFIC", "Nepal PM Balen Shah visits India, meets Modi"),
     (23, "ASIA-PACIFIC", "India\u2013China border talks on Arunachal go on"),
     (24, "AMERICAS", "US asks Nvidia to explain chip sales to China"),
-    (25, "SPORT", "India beat Pakistan by 1 wicket, U19 Asia Cup final"),
-    (26, "SPORT", "Pakistan A beat India A by 48 runs; Tilak century"),
+    (25, "MIDDLE EAST", "Iran: will use 'all tools' vs US naval blockade"),
+    (26, "ASIA-PACIFIC", "Korea education minister quits in AI exam scandal"),
     (27, "SPORT", "Mohammed Shami retires from Test cricket"),
-    (28, "SPORT", "India hockey series 1\u20130 over New Zealand"),
+    (28, "EUROPE", "Don Toliver concert evacuated after gas scare"),
     (29, "EUROPE", "Macron: reopen question of Ukraine NATO entry"),
     (30, "WORLD", "Trump meets Putin at APEC, calls him \u201cmy friend\u201d"),
     (31, "MIDDLE EAST", "Israel kills Hamas commander Samir Abu Younis"),
@@ -271,8 +271,8 @@ ALSO = [
     (35, "MIDDLE EAST", "Israeli drone strike kills 2 in Gaza; arson condemned"),
     (36, "OCEANIA", "Australia: calls for Bowen to quit after COP31"),
     (37, "ASIA-PACIFIC", "India\u2019s Yadav: India engaged to the end at COP31"),
-    (38, "SPORT", "Lakshya Sen loses Hong Kong Open semi-final"),
-    (39, "SPORT", "World chess: Gukesh prepares to face Uzbekistan"),
+    (38, "AMERICAS", "US Army plans Iowa lead blast despite court order"),
+    (39, "WORLD", "AI bubble fears: Nasdaq gives up all 2026 gains"),
 ]
 
 NUMBERS = [
